@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/eidmanna/shipping-service/issues"
   },
-  "homepage": "https://github.com/eidmanna/shipping-service#readme"
+  "homepage": "https://github.com/eidmanna/shipping-service#readme",
+  "devDependencies": {
+    "sinon": "^7.3.2"
+  }
 }
