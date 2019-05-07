@@ -25,6 +25,7 @@
     "sinon": "^7.3.2"
   },
   "dependencies": {
-    "axios": "^0.18.0"
+    "axios": "^0.18.0",
+    "express": "^4.16.4"
   }
 }
